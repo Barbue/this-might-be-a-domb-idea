@@ -18,7 +18,7 @@ item13.style.opacity = '0.5';
 
 let item3 = document.querySelector('#item-3');
 
-item3.innerText = 'I say, Hi!';
+item3.innerText = 'I say, "Hi!"';
 
 let myImage = document.querySelector('img');
 
